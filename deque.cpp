@@ -1,3 +1,7 @@
+/*
+    http://www.infoarena.ro/problema/deque
+*/
+
 #include<fstream>
 #include<deque>
 
