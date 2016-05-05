@@ -1,6 +1,7 @@
 /*
   http://www.infoarena.ro/problema/tsunami
 */
+// aaaa
 #include<fstream>
 using namespace std;
  
