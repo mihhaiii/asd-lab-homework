@@ -2,7 +2,7 @@
   https://open.kattis.com/problems/conundrum
 */
 # include <bits/stdc++.h>
-
+// modificat aici
 using namespace std;
 
 # define forn(i,n) for(int i=0;i<(n);i++)
